@@ -1,0 +1,28 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-06-28T00:06:01</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.1.6.0.0</property>
+    <property name="modified">2018-10-13T10:05:26</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="de58" />
+    <option name="FILESTATUS_COPIED" value="de58" />
+    <option name="FILESTATUS_DELETED" value="ff0004" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff0004" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_MERGED" value="ff4427" />
+    <option name="FILESTATUS_MODIFIED" value="7bff" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7bff" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7bff" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_addedOutside" value="de58" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="7bff" />
+  </colors>
+</scheme>
