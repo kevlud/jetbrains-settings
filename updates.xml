@@ -1,6 +1,7 @@
 <application>
   <component name="UpdatesConfigurable">
-    <option name="LAST_BUILD_CHECKED" value="PC-201.6668.115" />
-    <option name="LAST_TIME_CHECKED" value="1586371721362" />
+    <option name="LAST_BUILD_CHECKED" value="WS-193.6015.40" />
+    <option name="LAST_TIME_CHECKED" value="1586370566520" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
   </component>
 </application>
