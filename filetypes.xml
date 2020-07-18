@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="krajni_dva" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
